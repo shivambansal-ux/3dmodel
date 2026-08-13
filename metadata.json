@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Smart City 3D Master Plan",
+  "description": "Interactive 3D architectural master plan and street view explorer of Infinity Smart City township in India with underground infrastructure view and smart zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
