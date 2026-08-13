@@ -214,7 +214,7 @@ export class CityBuilder {
     // Text Sign Board
     const signGeo = new THREE.PlaneGeometry(36, 6);
     
-    // Create canvas texture for INFINITY CITY
+    // Create canvas texture for RAGA INFRA
     const canvas = document.createElement('canvas');
     canvas.width = 1024;
     canvas.height = 170;
@@ -230,7 +230,7 @@ export class CityBuilder {
     ctx.textBaseline = 'middle';
     ctx.shadowColor = '#0ea5e9';
     ctx.shadowBlur = 20;
-    ctx.fillText('INFINITY CITY', 512, 85);
+    ctx.fillText('RAGA INFRA', 512, 85);
     
     const signTex = new THREE.CanvasTexture(canvas);
     const signMat = new THREE.MeshBasicMaterial({ map: signTex });

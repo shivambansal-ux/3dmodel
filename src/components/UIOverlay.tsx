@@ -102,13 +102,13 @@ export const UIOverlay: React.FC<UIOverlayProps> = ({
           <div>
             <div className="flex items-center space-x-2">
               <h1 className="text-base sm:text-lg font-black tracking-tight text-white uppercase">
-                INFINITY <span className="text-sky-400">SMART CITY</span>
+                RAGA <span className="text-sky-400">INFRA</span>
               </h1>
               <span className="hidden sm:inline-block px-2 py-0.5 text-[10px] font-bold rounded-full bg-emerald-500/20 text-emerald-300 border border-emerald-500/30">
                 300 ACRES
               </span>
             </div>
-            <p className="text-[11px] text-slate-400 font-medium">Futuristic Indian Smart Township Master Plan</p>
+            <p className="text-[11px] text-slate-400 font-medium">Raga Infrastructure & Smart Township Master Plan</p>
           </div>
         </div>
 
@@ -423,7 +423,7 @@ export const UIOverlay: React.FC<UIOverlayProps> = ({
                 <BarChart3 className="w-6 h-6" />
               </div>
               <div>
-                <h2 className="text-xl font-bold">Infinity Smart City Metrics</h2>
+                <h2 className="text-xl font-bold">Raga Infra Metrics</h2>
                 <p className="text-xs text-slate-400">300-Acre Master Township Sustainability Index</p>
               </div>
             </div>
